@@ -1,5 +1,0 @@
-Comando básicos para o GitHub
-
-Git Push - Manda
-
-Git Pull - Traz
