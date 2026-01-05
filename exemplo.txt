@@ -1,4 +1,5 @@
- modificação
+Comando básicos para o GitHub
 
+Git Push - Manda
 
-neyma
+Git Pull - Traz
